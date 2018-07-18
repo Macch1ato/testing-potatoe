@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="Google Web Designer 4.0.1.0625">
+  <meta name="template" content="Banner 3.0.0">
+  <meta name="environment" content="gwd-doubleclick">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="gwdpage_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-page">
+  <link href="gwdpagedeck_style.css" rel="stylesheet" data-version="11" data-exports-type="gwd-pagedeck">
+  <link href="gwddoubleclick_style.css" rel="stylesheet" data-version="18" data-exports-type="gwd-doubleclick">
+  <link href="gwdimage_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-image">
+  <style type="text/css" id="gwd-lightbox-style">
+    .gwd-lightbox {
+      overflow: hidden;
+    }
+  </style>
+  <style type="text/css" id="gwd-text-style">
+    p {
+      margin: 0px;
+    }
+    h1 {
+      margin: 0px;
+    }
+    h2 {
+      margin: 0px;
+    }
+    h3 {
+      margin: 0px;
+    }
+  </style>
+  <style type="text/css">
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+    }
+    .gwd-page-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    .gwd-page-content {
+      background-color: transparent;
+      transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      transform-style: preserve-3d;
+      position: absolute;
+    }
+    .gwd-page-wrapper {
+      background-color: rgb(255, 255, 255);
+      position: absolute;
+      transform: translateZ(0px);
+    }
+    .gwd-page-size {
+      width: 728px;
+      height: 90px;
+    }
+    .gwd-img-xymk {
+      position: absolute;
+      top: 0px;
+      width: 257px;
+      height: 90px;
+      left: 257px;
+      transform: translate3d(-512px, 0px, 0px);
+      transform-style: preserve-3d;
+    }
+    .gwd-img-iu7j {
+      position: absolute;
+      top: 0px;
+      width: 258px;
+      height: 90px;
+      left: 169px;
+      transform: translate3d(-402px, 0px, 0px);
+      transform-style: preserve-3d;
+    }
+    .gwd-img-1s84 {
+      position: absolute;
+      top: 0px;
+      width: 265px;
+      height: 90px;
+      left: -233px;
+      transform-style: preserve-3d;
+      transform: translate3d(0px, 0px, 0px);
+    }
+    .gwd-img-unm2 {
+      position: absolute;
+      top: 0px;
+      width: 224px;
+      height: 90px;
+      left: -204px;
+      transform-style: preserve-3d;
+      transform: translate3d(0px, 0px, 0px);
+    }
+    .gwd-img-pzv1 {
+      position: absolute;
+      top: 0px;
+      width: 144px;
+      height: 90px;
+      left: -110px;
+      transform-style: preserve-3d;
+      transform: translate3d(0px, 0px, 0px);
+    }
+    .gwd-rect-r6lx {
+      position: absolute;
+      width: 228px;
+      height: 90px;
+      top: 0px;
+      box-sizing: border-box;
+      border-width: 0px;
+      background-color: rgb(54, 54, 54);
+      left: 731px;
+      transform-style: preserve-3d;
+      transform: translate3d(0px, 0px, 0px);
+    }
+    .gwd-img-1uk3 {
+      position: absolute;
+      width: 196px;
+      height: 72px;
+      left: 515px;
+      top: 10px;
+      opacity: 0;
+    }
+    .gwd-img-19jy {
+      position: absolute;
+      left: 500px;
+      top: -15px;
+      width: 268px;
+      height: 95px;
+      transform-origin: 134px 47.564px 0px;
+      opacity: 1;
+    }
+    .gwd-img-8w9t {
+      position: absolute;
+      top: 0px;
+      width: 131px;
+      height: 84px;
+      transform-origin: 65.5px 41.7923px 0px;
+      left: 548px;
+      opacity: 0;
+      transform-style: preserve-3d;
+      transform: translate3d(5px, 0px, 0px);
+    }
+    @keyframes gwd-gen-rpzggwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-512px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(-9px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-rpzggwdanimation {
+      animation: gwd-gen-rpzggwdanimation_gwd-keyframes 0.2s linear 0s 1 normal forwards;
+    }
+    @keyframes gwd-gen-gni0gwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-402px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(-7px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-gni0gwdanimation {
+      animation: gwd-gen-gni0gwdanimation_gwd-keyframes 0.2s linear 0.2s 1 normal forwards;
+    }
+    @keyframes gwd-gen-ff2igwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(293px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-ff2igwdanimation {
+      animation: gwd-gen-ff2igwdanimation_gwd-keyframes 0.2s linear 0.4s 1 normal forwards;
+    }
+    @keyframes gwd-gen-akytgwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(200px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-akytgwdanimation {
+      animation: gwd-gen-akytgwdanimation_gwd-keyframes 0.1s linear 0.6s 1 normal forwards;
+    }
+    @keyframes gwd-gen-19xogwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(107px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-19xogwdanimation {
+      animation: gwd-gen-19xogwdanimation_gwd-keyframes 0.1s linear 0.7s 1 normal forwards;
+    }
+    @keyframes gwd-gen-1wn9gwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(-231px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1wn9gwdanimation {
+      animation: gwd-gen-1wn9gwdanimation_gwd-keyframes 0.2s linear 0.8s 1 normal forwards;
+    }
+    @keyframes gwd-gen-156tgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-156tgwdanimation {
+      animation: gwd-gen-156tgwdanimation_gwd-keyframes 0.2s linear 1s 1 normal forwards;
+    }
+    @keyframes gwd-gen-r67bgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      15.34% {
+        opacity: 1;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      84.66% {
+        opacity: 1;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0.01;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-r67bgwdanimation {
+      animation: gwd-gen-r67bgwdanimation_gwd-keyframes 1.1s linear 3.5s 1 normal forwards;
+    }
+    @keyframes gwd-gen-3jp5gwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+      12.5% {
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      87.5% {
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-3jp5gwdanimation {
+      animation: gwd-gen-3jp5gwdanimation_gwd-keyframes 1.6s linear 1.2s 1 normal forwards;
+    }
+    .gwd-img-10r8 {
+      position: absolute;
+      width: 205px;
+      height: 69px;
+      top: 11px;
+      opacity: 1;
+      left: 737px;
+      transform: translate3d(0px, 0px, 0px);
+    }
+    @keyframes gwd-gen-umpogwdanimation_gwd-keyframes {
+      0% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      44.44% {
+        opacity: 1;
+        transform: translate3d(-225px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 1;
+        transform: translate3d(-225px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-umpogwdanimation {
+      animation: gwd-gen-umpogwdanimation_gwd-keyframes 0.9s linear 4.2s 1 normal forwards;
+    }
+    @keyframes gwd-gen-11h5gwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-2px, 0px, 0px);
+        background-color: rgb(165, 34, 56);
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(-231px, 0px, 0px);
+        background-color: rgb(165, 34, 56);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-11h5gwdanimation {
+      animation: gwd-gen-11h5gwdanimation_gwd-keyframes 0.3s linear 4.2s 1 normal forwards;
+    }
+    .gwd-svg-mnae {
+      transform: translate3d(-2px, 0px, 0px);
+      background-image: none;
+      background-color: rgb(165, 34, 56);
+    }
+    .gwd-p-71az {
+      position: absolute;
+      width: 216px;
+      height: 20px;
+      transform-origin: 123.5px -87.2188px 0px;
+      font-family: "Arial Black";
+      color: rgb(255, 255, 255);
+      font-size: 12px;
+      left: 514px;
+      top: 35px;
+      opacity: 0;
+      transform-style: preserve-3d;
+      transform: translate3d(5px, 0px, 0px);
+    }
+    @keyframes gwd-gen-1a5egwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      12.5% {
+        opacity: 0.99;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      87.5% {
+        opacity: 1;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1a5egwdanimation {
+      animation: gwd-gen-1a5egwdanimation_gwd-keyframes 0.8s linear 2.7s 1 normal forwards;
+    }
+  </style>
+  <script data-source="googbase_min.js" data-version="4" data-exports-type="googbase" src="googbase_min.js"></script>
+  <script data-source="gwd_webcomponents_min.js" data-version="5" data-exports-type="gwd_webcomponents" src="gwd_webcomponents_min.js"></script>
+  <script data-source="gwdpage_min.js" data-version="12" data-exports-type="gwd-page" src="gwdpage_min.js"></script>
+  <script data-source="gwdpagedeck_min.js" data-version="11" data-exports-type="gwd-pagedeck" src="gwdpagedeck_min.js"></script>
+  <script data-source="https://s0.2mdn.net/ads/studio/Enabler.js" data-exports-type="gwd-doubleclick" src="https://s0.2mdn.net/ads/studio/Enabler.js"></script>
+  <script data-source="gwddoubleclick_min.js" data-version="18" data-exports-type="gwd-doubleclick" src="gwddoubleclick_min.js"></script>
+  <script data-source="gwdimage_min.js" data-version="12" data-exports-type="gwd-image" src="gwdimage_min.js"></script>
+  <script type="text/javascript" gwd-events="support" src="gwd-events-support.1.0.js"></script>
+  <script type="text/javascript" gwd-events="handlers">
+    gwd.auto_Page1EndLoop = function(event) {
+      // GWD Predefined Function
+      gwd.actions.timeline.gotoAndPlayNTimes('page1', 'startLoop', 2, 'counter');
+    };
+  </script>
+  <script type="text/javascript" gwd-events="registration">
+    // Support code for event handling in Google Web Designer
+     // This script block is auto-generated. Please do not edit!
+    gwd.actions.events.registerEventHandlers = function(event) {
+      gwd.actions.events.addHandler('page1', 'endLoop', gwd.auto_Page1EndLoop, false);
+      gwd.actions.timeline.captureAnimationEnd(document.body);
+    };
+    gwd.actions.events.deregisterEventHandlers = function(event) {
+      gwd.actions.events.removeHandler('page1', 'endLoop', gwd.auto_Page1EndLoop, false);
+      gwd.actions.timeline.releaseAnimationEnd(document.body);
+    };
+    document.addEventListener("DOMContentLoaded", gwd.actions.events.registerEventHandlers);
+    document.addEventListener("unload", gwd.actions.events.deregisterEventHandlers);
+  </script>
+</head>
+
+<body>
+  <gwd-doubleclick id="gwd-ad" polite-load="">
+    <gwd-metric-configuration></gwd-metric-configuration>
+    <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
+      <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox" data-gwd-width="728px" data-gwd-height="90px" data-gwd-animation-labels="startLoop,0">
+        <div class="gwd-page-content gwd-page-size">
+          <img is="gwd-image" source="assets/sky.png" id="sky" class="gwd-img-xymk gwd-gen-rpzggwdanimation" data-gwd-tl-locked="">
+          <img is="gwd-image" source="assets/zipo.png" id="zipo" class="gwd-img-iu7j gwd-gen-gni0gwdanimation" data-gwd-tl-locked="">
+          <img is="gwd-image" source="assets/building.png" id="building" class="gwd-img-1s84 gwd-gen-ff2igwdanimation" data-gwd-tl-locked="">
+          <img is="gwd-image" source="assets/jumper.png" id="jumper" class="gwd-img-unm2 gwd-gen-akytgwdanimation" data-gwd-tl-locked="">
+          <img is="gwd-image" source="assets/george.png" id="george" class="gwd-img-pzv1 gwd-gen-19xogwdanimation" data-gwd-tl-locked="">
+          <svg data-gwd-shape="rectangle" class="gwd-rect-r6lx gwd-gen-1wn9gwdanimation" id="geyBox" data-gwd-tl-locked=""></svg>
+          <img is="gwd-image" source="assets/Bucket List Adventure1.png" id="bucketListAdventure" class="gwd-img-8w9t gwd-gen-r67bgwdanimation">
+          <svg data-gwd-shape="rectangle" class="gwd-rect-r6lx gwd-gen-11h5gwdanimation gwd-svg-mnae" id="redBox"></svg>
+          <img is="gwd-image" source="assets/bmLogo.png" id="bmLogo" class="gwd-img-19jy gwd-gen-156tgwdanimation" data-gwd-tl-locked="">
+          <img is="gwd-image" source="assets/textToWin.png" id="textToWin" class="gwd-img-1uk3 gwd-gen-3jp5gwdanimation">
+          <img is="gwd-image" source="assets/aapLogo.png" id="aapLogo" class="gwd-img-10r8 gwd-gen-umpogwdanimation">
+          <div class="gwd-animation-event endLoop-animation" data-event-name="endLoop" data-event-time="5100"></div>
+          <p class="gwd-p-71az gwd-gen-1a5egwdanimation">FOR YOUR CHANCE TO WIN</p>
+        </div>
+      </div>
+    </div>
+  </gwd-doubleclick>
+  <script type="text/javascript" id="gwd-init-code">
+    (function() {
+      var gwdAd = document.getElementById('gwd-ad');
+
+      /**
+       * Handles the DOMContentLoaded event. The DOMContentLoaded event is
+       * fired when the document has been completely loaded and parsed.
+       */
+      function handleDomContentLoaded(event) {
+
+      }
+
+      /**
+       * Handles the WebComponentsReady event. This event is fired when all
+       * custom elements have been registered and upgraded.
+       */
+      function handleWebComponentsReady(event) {
+        // Start the Ad lifecycle.
+        setTimeout(function() {
+          gwdAd.initAd();
+        }, 0);
+      }
+
+      /**
+       * Handles the event that is dispatched after the Ad has been
+       * initialized and before the default page of the Ad is shown.
+       */
+      function handleAdInitialized(event) {}
+
+      window.addEventListener('DOMContentLoaded',
+        handleDomContentLoaded, false);
+      window.addEventListener('WebComponentsReady',
+        handleWebComponentsReady, false);
+      window.addEventListener('adinitialized',
+        handleAdInitialized, false);
+    })();
+  </script>
+</body>
+
+</html>
